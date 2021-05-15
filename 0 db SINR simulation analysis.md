@@ -1,4 +1,4 @@
-# simulation analysis
+# Sum Rate vs Number of BS Antennas at SINR=0 dB, K=16
 
 Figure.11 shows sum rate of K = 16 users as a function of number of base station antennas for 0 dB SINR using linear precoding in Massive MIMO.
 

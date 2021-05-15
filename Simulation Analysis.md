@@ -43,3 +43,4 @@ gtext('64 users')
 gtext('128 users')
 ```
 Result of simulations is shown in the diagram below.
+![fig 10](https://user-images.githubusercontent.com/66460485/118352038-7c3ae380-b574-11eb-8598-56a7477362f3.jpg)

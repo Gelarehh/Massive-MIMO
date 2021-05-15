@@ -42,3 +42,4 @@ gtext('32 users')
 gtext('64 users')
 gtext('128 users')
 ```
+Result of simulations is shown in the diagram below.

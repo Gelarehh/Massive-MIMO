@@ -8,6 +8,8 @@ By comparing the two curves, it is received that the linear precoding used in Ma
 
 A lower bound for linear precoding can be as the following:
 
+<img src="https://latex.codecogs.com/svg.latex?\small&space;C_{sum\,zf}>K\log_2({1+\frac{(M-K)\rho_d}{K}})" />
+
 The Shannon limit is computed according to:
 
 # Matlab Codes

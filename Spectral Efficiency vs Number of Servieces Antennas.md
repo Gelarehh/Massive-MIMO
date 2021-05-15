@@ -1,4 +1,4 @@
-# Spectral Efficiency vs Number of Servieces Antennas at SINR= -6 dB, k = [16  32  64  128]
+# Analysis: Spectral Efficiency vs Number of Servieces Antennas at SINR= -6 dB, k = [16  32  64  128]
 
 In figure.10 of the article, total spectral efficiency is plotted as a function of the number of antennas in the transmitter for k = [16  32  64  128]. 
 

@@ -1,4 +1,3 @@
-```Matlab
 %figure 10_Total spectral efficiency versus number of base station antennas for K equal to 16, 32, 64, 128 users operating at a minus 6 dB SINR.
 clear all
 clc
@@ -25,4 +24,3 @@ gtext('16 users')
 gtext('32 users')
 gtext('64 users')
 gtext('128 users')
-```

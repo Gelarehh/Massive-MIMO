@@ -12,6 +12,10 @@ A lower bound for linear precoding can be as the following:
 
 The Shannon limit is computed according to:
 
+<img src="https://latex.codecogs.com/svg.latex?\small&space;C_{sum\,down}=\sup_a\{\log_2{\det{(I_M+\rho_dG_dD_aG_d^H)}}\}," />
+<img src="https://latex.codecogs.com/svg.latex?\small&space;a\geq0,I^Ta=1" />
+
+
 # Matlab Codes
 ```matlab
 %figure 11_Total spectral efficiency versus number of base station antennas for K ¼ 16 users and 0.0 dB SINR.

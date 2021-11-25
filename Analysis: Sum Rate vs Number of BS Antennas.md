@@ -1,4 +1,5 @@
-# Sum Rate vs Number of BS Antennas at SINR=0 dB, K=16
+# Sum Rate vs Number of BS Antennas 
+## at SINR=0 dB, K=16
 
 Figure.11 shows sum rate of K = 16 users as a function of number of base station antennas for 0 dB SINR using linear precoding in Massive MIMO.
 
@@ -43,5 +44,6 @@ ylabel('Sum Rate (bits/s/Hz)')
 gtext('Lower Bound(ZF/CB)')
 gtext('Shannon Limit(DPC)')
 ```
+## Diagram
 Result of simulations is shown in the diagram below.
 ![fig 11](https://user-images.githubusercontent.com/66460485/118352284-e2743600-b575-11eb-9ee8-3825ff5cd239.jpg)

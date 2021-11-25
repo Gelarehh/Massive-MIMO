@@ -1,4 +1,5 @@
-# Spectral Efficiency vs Number of Servieces Antennas at SINR= -6 dB, k = [16  32  64  128]
+# Spectral Efficiency vs Number of Servieces Antennas
+## at SINR= -6 dB, k = [16  32  64  128]
 
 In figure.10 of the article, total spectral efficiency is plotted as a function of the number of antennas in the transmitter for k = [16  32  64  128]. 
 
@@ -13,7 +14,7 @@ The Point-to-Point MIMO performance is ergodic Shannon capacity according to fol
 <img src="https://latex.codecogs.com/svg.latex?\small&space;C=\log_2({I_K+\frac{\rho_d}{M}G_d^HG_d})" />
 <img src="https://latex.codecogs.com/svg.latex?\small&space;\quad=\log_2({I_M+\frac{\rho_d}{M}G_dG_d^H})" />
 
-# Matlab Codes
+## Matlab Codes
 ```Matlab
 %figure 10_Total spectral efficiency versus number of base station antennas for K equal to 16, 32, 64, 128 users operating at a minus 6 dB SINR.
 clear all
@@ -42,5 +43,6 @@ gtext('32 users')
 gtext('64 users')
 gtext('128 users')
 ```
+## Diagram
 Result of simulations is shown in the diagram below.
 ![fig 10](https://user-images.githubusercontent.com/66460485/118352038-7c3ae380-b574-11eb-8598-56a7477362f3.jpg)
